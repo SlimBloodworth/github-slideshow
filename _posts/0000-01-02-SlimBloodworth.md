@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+...galloping forth like the sassy unicorn I am..
 Use the left arrow to go back!
